@@ -1,4 +1,8 @@
 _repo: La-fille-du-ciel-Drame-Chinois_47062
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47062-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Gautier, Judith
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/853
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47062#La-fille-du-ciel-Drame-Chinois
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2014-10-06'
 gutenberg_type: Text
